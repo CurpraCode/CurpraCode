@@ -8,14 +8,16 @@ I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experie
 
 **Want to stay in touch? You can find me here:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-curtis-oyakoya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/curtis-oyakoya-b70b091b2/)](https://www.linkedin.com/in/curtis-oyakoya-b70b091b2/)
+<h2>🌎 &nbsp;Where to find me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/curtis-oyakoya-b70b091b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://twitter.com/curpra_code" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="mailto:curtsoyaks@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/curpra_code/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-curtsoyaks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curtsoyaks@gmail.com)](curtsoyaks@gmail.com)
-
-
-## 💻 Technologies
-  <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
+## 💻 Technologies I code with
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
@@ -37,12 +39,12 @@ I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experie
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+
 
 <br>
-
+<h2>📈 &nbsp;Some Github Stats</h2>
+<span align="left">
+  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CurpraCode&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CurpraCode&layout=compact)
