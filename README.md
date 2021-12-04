@@ -4,7 +4,7 @@
 
 **FrontEnd Engineer | React Developer | Software Engineer**
 
-I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work as freelancer, picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movie, surfing the internet, and playing games.
+I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work as frontend Engineer, picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movie, surfing the internet, and playing games.
 
 **Want to stay in touch? You can find me here:**
 
